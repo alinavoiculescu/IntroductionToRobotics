@@ -1,15 +1,4 @@
-# Introduction to Robotics (2021 - 2022)
-Introduction to Robotics laboratory homeworks, taken in the 3rd year at the Faculty of Mathematics and Computer Science, University of Bucharest. Each homework includes requirements, implementation details, code and image files.
-
-<br>
-
-## Homework
-<details>
-  <summary>
-    <b> <h3> :closed_book::green_book::blue_book: Homework 1 - <i> Controlling RGB led using potentiometers :closed_book::green_book::blue_book: </i> </h3> </b>
-  </summary>
-  
-  ---
+## :closed_book::green_book::blue_book: Homework 1 - <i> Controlling RGB led using potentiometers :closed_book::green_book::blue_book: </i> </h3> </b>
   
   ### Task requirements
   
@@ -31,7 +20,3 @@ Introduction to Robotics laboratory homeworks, taken in the 3rd year at the Facu
   
   ### Video
   <a href="http://www.youtube.com/watch?feature=player_embedded&v=-FrS52ZmgYk" target="_blank"><img src="http://img.youtube.com/vi/-FrS52ZmgYk/0.jpg" alt="Video - Controlling RGB led using potentiometers" width="480" height="360" border="10"></a>
-
----
-
-</details>
