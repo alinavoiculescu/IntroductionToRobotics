@@ -1,4 +1,4 @@
-## :green_heart::yellow_heart::heart: Homework 2 - <i> Traffic lights for a crosswalk :green_heart::yellow_heart::heart: </i> </h3> </b>
+## :green_heart::yellow_heart::heart: Homework 2 - <i> Traffic lights for a crosswalk :green_heart::yellow_heart::heart: </i>
   
   ### Task requirements
   
